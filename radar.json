@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Kubernetes",
+      "ring": "Special",
+      "quadrant": "Platforms",
+      "isNew": "TRUE",
+      "description": "I have been using it in production and for dynamic environments for over 7 years. \nI understand the concept, what problems and how it solves, what components it consists of and when to apply specific components/approaches. \nI know how to debug problems and interact with APIs, both from console and from Golang."
+    },
+    {
+      "name": "GCP",
+      "ring": "Profound",
+      "quadrant": "Platforms",
+      "isNew": "TRUE",
+      "description": "I have been using it in production and for dynamic environments for over 7 years. \nI understand the concept, what problems and how it solves, what components it consists of and when to apply specific components/approaches. \nI know how to debug problems and interact with APIs, both from console and from Golang."
+    },
+    {
+      "name": "Linux",
+      "ring": "Special",
+      "quadrant": "Platforms",
+      "isNew": "TRUE",
+      "description": "I have been using different linux distributions for over 15 years. \nDuring this time I have used: Debian, OpenSUSE, SLES, Slackware, Kali, Ubuntu, Gentoo, Puppy and others. \nI have a good understanding of the components, how they work and how to interact with them. \nI am familiar with debugging tools and approaches to identify and fix problems."
+    },
+    {
+      "name": "Ansible",
+      "ring": "Special",
+      "quadrant": "Languages|IaC",
+      "isNew": "FALSE",
+      "description": "I have been using it in production and for dynamic environments for over 7 years. \nMore than once implemented large configurations from scratch. \nCreated dozens of roles for configuring servers, routers, devices, services, clouds. \nI know how to interact with all components of the system. \nThis includes: vault, dynamic inventory, Tower, custom configuration, over bastion, custom facts... \nI can describe a configuration of any complexity."
+    }
+]
