@@ -3,28 +3,629 @@
       "name": "Kubernetes",
       "ring": "Special",
       "quadrant": "Platforms",
-      "isNew": "TRUE",
+      "isNew": "FALSE",
       "description": "I have been using it in production and for dynamic environments for over 7 years. \nI understand the concept, what problems and how it solves, what components it consists of and when to apply specific components/approaches. \nI know how to debug problems and interact with APIs, both from console and from Golang."
     },
     {
       "name": "GCP",
       "ring": "Profound",
       "quadrant": "Platforms",
-      "isNew": "TRUE",
-      "description": "I have been using it in production and for dynamic environments for over 7 years. \nI understand the concept, what problems and how it solves, what components it consists of and when to apply specific components/approaches. \nI know how to debug problems and interact with APIs, both from console and from Golang."
+      "isNew": "FALSE",
+      "description": "I have been using it in pre-production for over 7 years now. \nI have a good understanding and knowledge of the following components: GKE, GCE, GCR, GCS, Build, WAF, Firewall, NAT, Peering, IAM, Costs Management, DNS, VPC, Monitoring, Identity, LDAP and others. \nI have repeatedly built GCP based infrastructures from scratch. \nI have experience of moving a large project from metal to GCP, without downtime."
     },
     {
       "name": "Linux",
       "ring": "Special",
       "quadrant": "Platforms",
-      "isNew": "TRUE",
+      "isNew": "FALSE",
       "description": "I have been using different linux distributions for over 15 years. \nDuring this time I have used: Debian, OpenSUSE, SLES, Slackware, Kali, Ubuntu, Gentoo, Puppy and others. \nI have a good understanding of the components, how they work and how to interact with them. \nI am familiar with debugging tools and approaches to identify and fix problems."
     },
     {
+      "name": "CloudFlare",
+      "ring": "Profound",
+      "quadrant": "Platforms",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Docker",
+      "ring": "Profound",
+      "quadrant": "Platforms",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Tilt",
+      "ring": "Special",
+      "quadrant": "Platforms",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "VMware",
+      "ring": "Hold",
+      "quadrant": "Platforms",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "AWS",
+      "ring": "Assess",
+      "quadrant": "Platforms",
+      "isNew": "FALSE",
+      "description": ""
+    },
+
+
+
+
+
+    {
       "name": "Ansible",
       "ring": "Special",
-      "quadrant": "Languages|IaC",
+      "quadrant": "Languages & IaC",
       "isNew": "FALSE",
       "description": "I have been using it in production and for dynamic environments for over 7 years. \nMore than once implemented large configurations from scratch. \nCreated dozens of roles for configuring servers, routers, devices, services, clouds. \nI know how to interact with all components of the system. \nThis includes: vault, dynamic inventory, Tower, custom configuration, over bastion, custom facts... \nI can describe a configuration of any complexity."
+    },
+    {
+      "name": "Terraform",
+      "ring": "Special",
+      "quadrant": "Languages & IaC",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Pulumu",
+      "ring": "Profound",
+      "quadrant": "Languages & IaC",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Golang",
+      "ring": "Profound",
+      "quadrant": "Languages & IaC",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Python",
+      "ring": "Profound",
+      "quadrant": "Languages & IaC",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Starlark",
+      "ring": "Profound",
+      "quadrant": "Languages & IaC",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Bash",
+      "ring": "Profound",
+      "quadrant": "Languages & IaC",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Rego",
+      "ring": "Profound",
+      "quadrant": "Languages & IaC",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Puppet",
+      "ring": "Hold",
+      "quadrant": "Languages & IaC",
+      "isNew": "FALSE",
+      "description": ""
+    },
+
+
+
+
+
+    {
+      "name": "Git",
+      "ring": "Profound",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Prometheus",
+      "ring": "Profound",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Grafana",
+      "ring": "Profound",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Gitlab CI",
+      "ring": "Profound",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Helm",
+      "ring": "Profound",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Nginx",
+      "ring": "Profound",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Istio",
+      "ring": "Special",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Consul",
+      "ring": "Profound",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Hashicorp Vault",
+      "ring": "Profound",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "ArgoCD",
+      "ring": "Profound",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Envoy",
+      "ring": "Special",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Tempo",
+      "ring": "Profound",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Opentelemetry",
+      "ring": "Profound",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Loki",
+      "ring": "Profound",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "CoreDNS",
+      "ring": "Profound",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Keda",
+      "ring": "Profound",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "NewRelic",
+      "ring": "Assess",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Pritunl",
+      "ring": "Special",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Kaniko",
+      "ring": "Profound",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "iptables",
+      "ring": "Profound",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Traefik",
+      "ring": "Assess",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Bind",
+      "ring": "Profound",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "OpenLDAP",
+      "ring": "Assess",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "RabbitMQ",
+      "ring": "Assess",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Memcached",
+      "ring": "Assess",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "PostgreSQL",
+      "ring": "Hold",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "MySQL",
+      "ring": "Hold",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "ProxySQL",
+      "ring": "Profound",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "AMQProxy",
+      "ring": "Assess",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "ChartMuseum",
+      "ring": "Assess",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "CertManager",
+      "ring": "Assess",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Argo Workflow",
+      "ring": "Hold",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "CloudBuild",
+      "ring": "Profound",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "HAProxy",
+      "ring": "Hold",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Zabbix",
+      "ring": "Hold",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Netdata",
+      "ring": "Assess",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Conftest",
+      "ring": "Assess",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Zabbix",
+      "ring": "Hold",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Teleport",
+      "ring": "Hold",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Novell OES",
+      "ring": "Hold",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "eDirectory",
+      "ring": "Hold",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "fail2ban",
+      "ring": "Hold",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "eDirectory",
+      "ring": "Hold",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "eDirectory",
+      "ring": "Hold",
+      "quadrant": "Tools",
+      "isNew": "FALSE",
+      "description": ""
+    },
+
+
+
+    {
+      "name": "DevOps",
+      "ring": "Special",
+      "quadrant": "Approaches & Technologies & Areas",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "GitOps",
+      "ring": "Special",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "CI/CD",
+      "ring": "Profound",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "CNCF",
+      "ring": "Profound",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Kanban",
+      "ring": "Assess",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "12 factor apps",
+      "ring": "Profound",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Agile",
+      "ring": "Assess",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Cost Optimization",
+      "ring": "Special",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "System design",
+      "ring": "Profound",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "IaC",
+      "ring": "Special",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Observability",
+      "ring": "Profound",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Monitoring",
+      "ring": "Profound",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Security",
+      "ring": "Profound",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Networking",
+      "ring": "Profound",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Troubleshooting",
+      "ring": "Special",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Dynamic environments",
+      "ring": "Special",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Coding",
+      "ring": "Profound",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Automation",
+      "ring": "Special",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Problem-solving",
+      "ring": "Profound",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Virtualisation",
+      "ring": "Profound",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Coding",
+      "ring": "Profound",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Mentoring",
+      "ring": "Profound",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Audit",
+      "ring": "Profound",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Platform engineering",
+      "ring": "Assess",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Chaos Engineering",
+      "ring": "Assess",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Configuration Management",
+      "ring": "Special",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
+    },
+    {
+      "name": "Mentoring",
+      "ring": "Profound",
+      "quadrant": "Approaches & Technologies",
+      "isNew": "FALSE",
+      "description": ""
     }
 ]
